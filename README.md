@@ -11,12 +11,9 @@ Welcome to the "Diabetes Prediction Using Supervised Machine Learning" project r
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
+- [Result](#Result)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Result
-
-<img src="https://github.com/akgaur12/Diabetes_Prediction_Using_Supervised_ML/assets/134853842/3102377f-f951-4fc1-980b-40c892bd5ef2" alt="Project GUI" width='60%'>
 
 ## Introduction
 
@@ -35,6 +32,11 @@ This project leverages supervised machine learning techniques to predict diabete
 ## Dataset
 
 The dataset used in this project is sourced from [source_name]. It contains [number_of_samples] samples and [number_of_features] features. The target variable is binary, indicating the presence or absence of diabetes.
+
+## Result
+
+<img src="https://github.com/akgaur12/Diabetes_Prediction_Using_Supervised_ML/assets/134853842/3102377f-f951-4fc1-980b-40c892bd5ef2" alt="Project GUI" width='60%'>
+
 
 ## Dependencies
 
