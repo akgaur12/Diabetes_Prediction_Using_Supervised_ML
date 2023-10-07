@@ -45,8 +45,13 @@ Before running the project, ensure you have the following dependencies installed
 - Python 3.x
 - Required Python packages (specified in `requirements.txt`)
 
-You can install the required packages using pip:
 
-```bash
-pip install -r requirements.txt
+## Models
+
+We have implemented and evaluated multiple machine learning models, including:
+- Logistic Regression
+- Random Forest
+- Support Vector Machine (SVM)
+- Gradient Boosting
+- Neural Network (Deep Learning)
 
