@@ -31,7 +31,7 @@ This project leverages supervised machine learning techniques to predict diabete
 
 ## Dataset
 
-The dataset used in this project is sourced from [source_name]. It contains [number_of_samples] samples and [number_of_features] features. The target variable is binary, indicating the presence or absence of diabetes.
+The dataset used in this project is sourced from [Kaggle]. It contains [number_of_samples] samples and [number_of_features] features. The target variable is binary, indicating the presence or absence of diabetes.
 
 ## Result
 
