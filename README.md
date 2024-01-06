@@ -55,7 +55,5 @@ We have implemented and evaluated multiple machine learning models, including:
 - Gradient Boosting
 - Neural Network (Deep Learning)
 
-- 
-
 
 
